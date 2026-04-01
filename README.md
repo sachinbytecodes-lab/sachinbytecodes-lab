@@ -1,6 +1,6 @@
 # Hi there, I'm Sachin! 👋
 
-
+### 🚀 Software Developer | Computer Vision Enthusiast | Python Geek
 
 # 💫 About Me:
 🔭 I’m currently working on: SafeDrive-AI (a drowsiness detection system) and my personal AI assistant, Jarvis.<br><br>👯 I’m looking to collaborate on: Open-source AI projects or web applications built with Flask and Python.<br><br>🤝 I’m looking for help with: Optimizing computer vision models for real-time performance on edge devices.<br><br>🌱 I’m currently learning: Advanced Computer Vision techniques and integrating Gemini models into web dashboards.<br><br>💬 Ask me about: Python, building Chat Apps with MongoDB.<br><br>⚡ Fun fact: I do all my development on a MacBook Air M2, which surprisingly handles my YOLO and MediaPipe models like a champ!
